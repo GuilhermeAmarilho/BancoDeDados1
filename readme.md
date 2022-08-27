@@ -48,5 +48,41 @@
 - [Banco Uber - ER (PNG)](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2009%20-%20Prova%20de%20PROJETO%20I/imagem-banco-uber.png)
 - [Banco Uber - ER (PDF)](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2009%20-%20Prova%20de%20PROJETO%20I/pdf-banco-uber.pdf)
 - [Banco Uber - ER (SQL)](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2009%20-%20Prova%20de%20PROJETO%20I/Tabela-uber.sql)
-- []
+- [Questões](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2009%20-%20Prova%20de%20PROJETO%20I/questoes-sql.pdf)
 - [Resolução](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2009%20-%20Prova%20de%20PROJETO%20I/Lista-Prova-01.sql)
+
+#### Modelo conceitual
+- [Conteúdo](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20Conceitual/modelo-conceitual.pdf)
+- [BRModelo](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20Conceitual/brModelo.jar)
+- [Atividade: EuBanqueiro](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20Conceitual/ATIVIDADE-EUBANQUEIRO.pdf)
+- [Modelo conceitual BRM3](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20Conceitual/Conceitual_1.brM3)
+- [Modelo conceitual PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20Conceitual/Conceitual_1.png)
+
+#### Modelo lógico
+- [Tipos de dados](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20l%C3%B3gico/relacionamentos-heuser-1998.jpg)
+- [Conteúdo](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20l%C3%B3gico/modelo-logico.pdf)
+- [Atividade: VamosCozinhar](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20l%C3%B3gico/atv-vamos-cozinhar.pdf)
+- [Modelo conceitual PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20l%C3%B3gico/Conceitual_1.png)
+- [Modelo conceitual BRM3](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2010%20-%20Modelo%20l%C3%B3gico/Conceitual_1.brM3)
+- [Modelo lógico PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2011%20-%20Modelo%20l%C3%B3gico/modelo-eu-cozinho.png)
+- [SQL VamosCozinhar](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2011%20-%20Modelo%20l%C3%B3gico/SQL-eucozinho.sql)
+- [Atividade: EuBanqueiro](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2012%20-%20Modelo%20l%C3%B3gico/ATIVIDADE-EUBANQUEIRO.pdf)
+- [Conceitual BRM3](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2012%20-%20Modelo%20l%C3%B3gico/CONCEITUAL_1.brM)
+- [Modelo lógico PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2012%20-%20Modelo%20l%C3%B3gico/eubanqueiro-logico.png)
+
+#### Avaliação 2
+- [Atividade 1](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2013%20-%20Prova%202/modelo-logico-enjoei-prova-2.pdf)
+- [Modelo lógico PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2013%20-%20Prova%202/modelo-logico.png)
+- [Tabela SQL](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2013%20-%20Prova%202/sqlAtv.sql)
+- [Atividade 2](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2014%20-%20PROVA%20DE%20PROJETO%20II/prova-dois.pdf)
+- [Modelo lógico PNG](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2014%20-%20PROVA%20DE%20PROJETO%20II/MercadoLivro.png)
+  
+#### Projeto Final
+- Ludopédia
+  - [Atividade](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Ludop%C3%A9dia/modelo-logico-ludopedia.pdf)
+  - [Modelo lógico](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Ludop%C3%A9dia/ER-Ludopedia.png)
+- Escola
+  - [Atividade](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Escola/prova-final.pdf) 
+  - [Tabelas](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Escola/CriacaoTabela.sql)
+  - [Insersões](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Escola/SQL-Escola.sql)
+  - [Modelo Lógico](https://github.com/GuilhermeAmarilho/BANCO-DE-DADOS-1/blob/master/Aula%2015%20-%20Prova%20Final/Escola/banco-escola.png)
